@@ -1,7 +1,5 @@
-Ë¢Ìâ½ø³Ì
-Ã¿Ìì¸üÐÂÒ»Ìâ£¬´ò¿¨
-Ê¹ÓÃµÄÊé¼®£º¡¶Python³ÌÐòÔ±ÃæÊÔËã·¨±¦µä¡·
-Ë¼Â·£º
-1¡¢°´×¨ÌâË¢
-2¡¢°´ÃæÊÔ¹«Ë¾Ë¢
-3¡¢ºóÃæ»á¼ÓÈëc++ºÍjava°æ±¾£¬python¿ÉÒÔÏÈ°ÑÊý¾Ý½á¹¹ºÍ×öÌâË¼Â·Á·Ï°Çå³þ
+åˆ·é¢˜è¿›ç¨‹
+
+å¶å°”æ›´æ–°
+
+ä½¿ç”¨çš„ä¹¦ç±ï¼šã€ŠPythonç¨‹åºå‘˜é¢è¯•ç®—æ³•å®å…¸ã€‹ä»¥åŠ LeetCode Problems
